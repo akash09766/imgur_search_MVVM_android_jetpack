@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_item_tv_margin">20dp</dimen>
+
+
+    //search
+    <dimen name="main_activity_search_list_margin_top">5dp</dimen>
+    <dimen name="main_activity_search_progress_bar_width_height">25dp</dimen>
+    <dimen name="main_activity_search_progress_bar_margin_right">10dp</dimen>
+
+    <dimen name="main_activity_search_bottom_progress_bar_width_height">25dp</dimen>
+    <dimen name="main_activity_search_bottom_progress_bar_margin_bottom">10dp</dimen>
+
+    //CircularProgressDrawable
+    <dimen name="circular_progress_drawable_stroke_width">2dp</dimen>
+    <dimen name="circular_progress_drawable_stroke_radius">10dp</dimen>
+    <dimen name="search_list_item_spacing">10dp</dimen>
+
+    <dimen name="search_list_item_width_height">120dp</dimen>
+    <dimen name="main_activity_user_msg_tv_margin">20dp</dimen>
+    <dimen name="main_activity_user_msg_tv_text_size">20sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="detail_activity_item_iv_height">200dp</dimen>
+    <dimen name="main_activity_search_et_margin_left_right">20dp</dimen>
+    <dimen name="comment_list_item_user_iv_width_height">20dp</dimen>
+    <dimen name="comment_list_item_user_comment_tv_margin_left">10dp</dimen>
+
+</resources>

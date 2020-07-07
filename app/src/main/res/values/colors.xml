@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="button_inactive_color">#727070</color>
+    <color name="thumbnail_progress_color">#635A5A</color>
+    <color name="detail_item_iv_foreground_tint_color">#27000000</color>
+
+</resources>

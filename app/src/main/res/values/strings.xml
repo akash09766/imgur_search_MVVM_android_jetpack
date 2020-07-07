@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Axxess Challenge</string>
+    <string name="main_activity_search_et_hint">Search</string>
+    <string name="no_results">No results for <b> %1$s </b></string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="details_activity_search_et_prefill"></string>
+    <string name="details_activity_search_et_hint">Type comment here</string>
+    <string name="add_comment_dialog_title">Add Comment</string>
+    <string name="add_comment_dialog_positive_btn_text">Send</string>
+    <string name="add_comment_dialog_negative_btn_text">Cancel</string>
+
+</resources>
