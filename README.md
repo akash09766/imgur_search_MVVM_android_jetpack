@@ -1,4 +1,4 @@
-# MovieMaasala
+# Axxess Challenge
 Demonstration of Image search using imgur rest api and add comment to specific image using local DB .
 
 ![Screenshot](https://github.com/akash09766/AxxessChallenge/blob/master/screenshots/Screenshot_1594111485.png) 
